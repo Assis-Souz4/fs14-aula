@@ -1,0 +1,18 @@
+#rest api = padrão da informação Json
+
+front > back >  BD
+*front > react, vue,next..
+*Back > nodeJs,java,python..
+*BD > mongo,mysql...
+
+*request > envio(solicitação)
+*response > resposta
+
+#Metodos HTTP
+
+get >>> busca
+post >>> post
+put >>> modificações em um recurso(completa)
+path >>>modificações em um recurso(parcial)
+delete >>> remove um recurso especifico
+
